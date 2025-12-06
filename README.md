@@ -1,1 +1,1 @@
-# git-conflict-demo
+Update from VS Code
